@@ -1,0 +1,35 @@
+﻿@model Product
+@using System.Globalization
+
+<div class="row">
+<dl class="row col-7 ">
+		<dt class="col-3 bg-gold">@Html.DisplayNameFor(Emp => Emp.Id)</dt>
+		<dd class="col-9">@Html.DisplayFor(Emp => Emp.Id)</dd>
+
+		<dt class="col-3">@Html.DisplayNameFor(Emp => Emp.Name)</dt>
+		<dd class="col-9">@Html.DisplayFor(Emp => Emp.Name)</dd>
+
+		<dt class="col-3">@Html.DisplayNameFor(Emp => Emp.Description)</dt>
+		<dd class="col-9">@Html.DisplayFor(Emp => Emp.Description)</dd>
+		
+		<dt class="col-3">@Html.DisplayNameFor(Emp => Emp.Quantity)</dt>
+		<dd class="col-9">@Html.DisplayFor(Emp => Emp.Quantity)</dd>
+
+		<dt class="col-3">@Html.DisplayNameFor(Emp => Emp.Price)</dt>
+		<dd class="col-9">@Model.Price.ToString("C2", CultureInfo.CreateSpecificCulture("ar-EG"))</dd>
+	<dt class="col-3">Category</dt>
+	<dd class="col-9">@Model.Category.Name</dd>
+
+		
+		<dt class="col-3">@Html.DisplayNameFor(Emp => Emp.CategoryId) </dt>
+		<dd class="col-9">@Html.DisplayFor(Emp => Emp.CategoryId)</dd>
+
+		
+
+</dl>
+	<img src="@Model.ImagePath" class=" col-3" style="object-fit:contain" />
+
+</div>
+
+
+<a asp-controller="Employees" asp-action="GetIndexView" class="btn btn-secondary">Back to list</a>

@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Natsu.Models.Product>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Collection</title>
+
+    <!-- swiper css link  -->
+    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
+
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <!-- custom css file link  -->
+    <link href="~/images/27.jpg" rel="stylesheet" />
+
+</head>
+<body>
+
+    <div class="heading" style="background: url('/images/27.jpg') no-repeat center center; background-size: cover; height: 300px; display: flex; justify-content: center; align-items: center;">
+        <h1 style="color: white; font-size: 85px; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);">Collections</h1>
+    </div>
+
+    <!-- packages section starts  -->
+    <section class="packages">
+        <h1 class="heading-title">Our New Collection</h1>
+
+        <div class="box-container">
+            @foreach (var product in Model)
+            {
+                <div class="box">
+                    <div class="image">
+                        <img src="@product.ImagePath" alt="@product.Name"  />
+                    </div>
+                    <div class="content">
+                        <h3>@product.Name</h3>
+                        <p>@product.Description</p>
+                        <p class="font-weight-bold">$@product.Price</p>
+                        <a class="btn" asp-controller="Cart" asp-action="AddToCart" asp-route-productId="@product.Id" asp-route-quantity="1" title="Delete">
+                            Add to cart
+                        </a>
+                    </div>
+                </div>
+            }
+        </div>
+
+        <div class="load-more"><span class="btn">load more</span></div>
+    </section>
+    <!-- packages section ends -->
+    <!-- swiper js link  -->
+    <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
+
+    <!-- custom js file link  -->
+	<script src="~/js/site.js"></script>
+</body>
+</html>

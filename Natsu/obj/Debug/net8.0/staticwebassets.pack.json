@@ -1,0 +1,641 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Natsu.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Natsu.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\banner1.jpg",
+      "PackagePath": "staticwebassets\\image\\banner1.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\banner2.jpg",
+      "PackagePath": "staticwebassets\\image\\banner2.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\banner3.jpg",
+      "PackagePath": "staticwebassets\\image\\banner3.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\image\\blog-1.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\image\\blog-2.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\image\\blog-3.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\image\\blog-4.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\image\\blog-5.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\pic-1.png",
+      "PackagePath": "staticwebassets\\image\\pic-1.png"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\pic-2.png",
+      "PackagePath": "staticwebassets\\image\\pic-2.png"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\pic-3.png",
+      "PackagePath": "staticwebassets\\image\\pic-3.png"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\pic-4.png",
+      "PackagePath": "staticwebassets\\image\\pic-4.png"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\pic-5.png",
+      "PackagePath": "staticwebassets\\image\\pic-5.png"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\pic-6.png",
+      "PackagePath": "staticwebassets\\image\\pic-6.png"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\product_img1.jpg",
+      "PackagePath": "staticwebassets\\image\\product_img1.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\product_img10.jpg",
+      "PackagePath": "staticwebassets\\image\\product_img10.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\product_img11.jpg",
+      "PackagePath": "staticwebassets\\image\\product_img11.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\product_img12.jpg",
+      "PackagePath": "staticwebassets\\image\\product_img12.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\product_img2.jpg",
+      "PackagePath": "staticwebassets\\image\\product_img2.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\product_img3.jpg",
+      "PackagePath": "staticwebassets\\image\\product_img3.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\product_img4.jpg",
+      "PackagePath": "staticwebassets\\image\\product_img4.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\product_img5.jpg",
+      "PackagePath": "staticwebassets\\image\\product_img5.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\product_img6.jpg",
+      "PackagePath": "staticwebassets\\image\\product_img6.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\product_img7.jpg",
+      "PackagePath": "staticwebassets\\image\\product_img7.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\product_img8.jpg",
+      "PackagePath": "staticwebassets\\image\\product_img8.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\product_img9.jpg",
+      "PackagePath": "staticwebassets\\image\\product_img9.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\shop_banner_img1.jpg",
+      "PackagePath": "staticwebassets\\image\\shop_banner_img1.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\shop_banner_img2.jpg",
+      "PackagePath": "staticwebassets\\image\\shop_banner_img2.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\image\\tranding_img.png",
+      "PackagePath": "staticwebassets\\image\\tranding_img.png"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\00.jpg",
+      "PackagePath": "staticwebassets\\images\\00.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\03a922af19b908f405177fd4ad8af69e.jpg",
+      "PackagePath": "staticwebassets\\images\\03a922af19b908f405177fd4ad8af69e.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\080e2bb6-4236-4de6-9937-d21a8eaf3141.jpg",
+      "PackagePath": "staticwebassets\\images\\080e2bb6-4236-4de6-9937-d21a8eaf3141.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\10.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\11.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\12.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\120B.jpg",
+      "PackagePath": "staticwebassets\\images\\120B.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\125.jpg",
+      "PackagePath": "staticwebassets\\images\\125.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\13.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\1410.jpg",
+      "PackagePath": "staticwebassets\\images\\1410.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\15.jpg",
+      "PackagePath": "staticwebassets\\images\\15.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\19.jpg",
+      "PackagePath": "staticwebassets\\images\\19.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\1981cc98-95b2-4345-aa35-f799536a374a.jpg",
+      "PackagePath": "staticwebassets\\images\\1981cc98-95b2-4345-aa35-f799536a374a.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\20.jpg",
+      "PackagePath": "staticwebassets\\images\\20.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\2020.jpg",
+      "PackagePath": "staticwebassets\\images\\2020.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\205b4584-0679-42e8-9e43-d682e0df16cd.jpg",
+      "PackagePath": "staticwebassets\\images\\205b4584-0679-42e8-9e43-d682e0df16cd.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\20c030cdbd56b121b964be18e12c3036.jpg",
+      "PackagePath": "staticwebassets\\images\\20c030cdbd56b121b964be18e12c3036.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\21.jpg",
+      "PackagePath": "staticwebassets\\images\\21.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\2108.jpg",
+      "PackagePath": "staticwebassets\\images\\2108.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\2109.jpg",
+      "PackagePath": "staticwebassets\\images\\2109.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\2255.jpg",
+      "PackagePath": "staticwebassets\\images\\2255.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\27.jpg",
+      "PackagePath": "staticwebassets\\images\\27.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\2e06851d-8767-4a5b-ad22-dccd789e4728.jpg",
+      "PackagePath": "staticwebassets\\images\\2e06851d-8767-4a5b-ad22-dccd789e4728.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\3.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\3030.jpg",
+      "PackagePath": "staticwebassets\\images\\3030.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\31.jpg",
+      "PackagePath": "staticwebassets\\images\\31.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\32e587bd-e5d9-4fc2-9330-77a286138d91.jpg",
+      "PackagePath": "staticwebassets\\images\\32e587bd-e5d9-4fc2-9330-77a286138d91.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\333b8b39fd59d98cb28e45ebb3d4743b.jpg",
+      "PackagePath": "staticwebassets\\images\\333b8b39fd59d98cb28e45ebb3d4743b.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\3355.jpg",
+      "PackagePath": "staticwebassets\\images\\3355.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\3ac948b7-b0bb-4e60-88de-22df418b467f.jpg",
+      "PackagePath": "staticwebassets\\images\\3ac948b7-b0bb-4e60-88de-22df418b467f.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\40.jpg",
+      "PackagePath": "staticwebassets\\images\\40.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\4040.jpg",
+      "PackagePath": "staticwebassets\\images\\4040.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\42649300-c990-4738-9cad-f7e731538a12.jpg",
+      "PackagePath": "staticwebassets\\images\\42649300-c990-4738-9cad-f7e731538a12.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\44.jpg",
+      "PackagePath": "staticwebassets\\images\\44.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\4455.jpg",
+      "PackagePath": "staticwebassets\\images\\4455.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\458ba49f3988eace32bd54bafe76a3a0.jpg",
+      "PackagePath": "staticwebassets\\images\\458ba49f3988eace32bd54bafe76a3a0.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\49.jpg",
+      "PackagePath": "staticwebassets\\images\\49.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\4e72f88a5b0a4ccfbc41e9350222af6d.jpg",
+      "PackagePath": "staticwebassets\\images\\4e72f88a5b0a4ccfbc41e9350222af6d.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\5.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\50.jpg",
+      "PackagePath": "staticwebassets\\images\\50.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\52.jpg",
+      "PackagePath": "staticwebassets\\images\\52.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\53.jpg",
+      "PackagePath": "staticwebassets\\images\\53.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\55.jpg",
+      "PackagePath": "staticwebassets\\images\\55.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\558.jpg",
+      "PackagePath": "staticwebassets\\images\\558.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\59.jpg",
+      "PackagePath": "staticwebassets\\images\\59.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\63cd691b-c0f9-423e-902a-7afc6764d709.jpg",
+      "PackagePath": "staticwebassets\\images\\63cd691b-c0f9-423e-902a-7afc6764d709.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\7b1b8090-049b-413a-bf4d-b483b76b41f5.jpg",
+      "PackagePath": "staticwebassets\\images\\7b1b8090-049b-413a-bf4d-b483b76b41f5.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\8.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\81a696ed-c7ff-4b63-844a-c1d74aba458b.jpg",
+      "PackagePath": "staticwebassets\\images\\81a696ed-c7ff-4b63-844a-c1d74aba458b.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\83adfbd5-3241-4978-92ca-792fd85a2519.jpg",
+      "PackagePath": "staticwebassets\\images\\83adfbd5-3241-4978-92ca-792fd85a2519.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\8f363e8e582e57eb7af966e3262fb02e.jpg",
+      "PackagePath": "staticwebassets\\images\\8f363e8e582e57eb7af966e3262fb02e.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\9.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\90688195-02bd-453c-878d-ac7bf4eb445f.jpg",
+      "PackagePath": "staticwebassets\\images\\90688195-02bd-453c-878d-ac7bf4eb445f.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\928022e0bb452b7d484ed18b3d2d5820.jpg",
+      "PackagePath": "staticwebassets\\images\\928022e0bb452b7d484ed18b3d2d5820.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\WhatsApp Image 2022-12-22 at 19.20.39.jpg",
+      "PackagePath": "staticwebassets\\images\\WhatsApp Image 2022-12-22 at 19.20.39.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\WhatsApp Image 2022-12-22 at 19.38.28.jpg",
+      "PackagePath": "staticwebassets\\images\\WhatsApp Image 2022-12-22 at 19.38.28.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\WhatsApp Image 2022-12-23 at 04.10.32.jpg",
+      "PackagePath": "staticwebassets\\images\\WhatsApp Image 2022-12-23 at 04.10.32.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\a3f3865e97ccd0769726da9bb9b8a742.jpg",
+      "PackagePath": "staticwebassets\\images\\a3f3865e97ccd0769726da9bb9b8a742.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\b07353117769571ecfac6dec6fd1858f.jpg",
+      "PackagePath": "staticwebassets\\images\\b07353117769571ecfac6dec6fd1858f.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\cb69380ed7fd7431b5f68aabf15778f8.jpg",
+      "PackagePath": "staticwebassets\\images\\cb69380ed7fd7431b5f68aabf15778f8.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\e2aaa9ab-7d28-44dc-86a0-c2e93a8a79c9.jpg",
+      "PackagePath": "staticwebassets\\images\\e2aaa9ab-7d28-44dc-86a0-c2e93a8a79c9.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\e37e960b547e04fc3d758ec24a8c4fdb.jpg",
+      "PackagePath": "staticwebassets\\images\\e37e960b547e04fc3d758ec24a8c4fdb.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\ef4196d6e22476b318a6bb1b4a2a2080.jpg",
+      "PackagePath": "staticwebassets\\images\\ef4196d6e22476b318a6bb1b4a2a2080.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\images\\f59cedc3-6ca0-46e5-8ce5-f7a93ec1f02a.jpg",
+      "PackagePath": "staticwebassets\\images\\f59cedc3-6ca0-46e5-8ce5-f7a93ec1f02a.jpg"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\DEPI Graduation Project\\yasmeen Natsu\\Natsu\\Natsu\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Natsu.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Natsu.props",
+      "PackagePath": "build\\Natsu.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Natsu.props",
+      "PackagePath": "buildMultiTargeting\\Natsu.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Natsu.props",
+      "PackagePath": "buildTransitive\\Natsu.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

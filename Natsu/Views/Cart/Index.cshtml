@@ -1,0 +1,45 @@
+﻿@model ShoppingCart
+
+<h2 class="text-center">Your Shopping Cart</h2>
+
+@if (Model.Items.Count == 0)
+{
+    <p class="text-center">Your cart is empty.</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th>Product</th>
+                <th>Quantity</th>
+                <th>Price</th>
+                <th>Subtotal</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Items)
+            {
+                <tr>
+                    <td>@item.Product.Name</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.Product.Price.ToString("C")</td>
+                    <td>@(item.Product.Price * item.Quantity).ToString("C")</td>
+                    <td>
+                        <form asp-action="RemoveFromCart" asp-route-productId="@item.ProductId" method="post">
+                            <button type="submit" class="btn btn-danger btn-sm">Remove</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <p class="font-weight-bold">Total: @Model.Total().ToString("C")</p>
+
+    <form asp-action="ClearCart" method="post">
+        <button type="submit" class="btn btn-warning">Clear Cart</button>
+    </form>
+}
+

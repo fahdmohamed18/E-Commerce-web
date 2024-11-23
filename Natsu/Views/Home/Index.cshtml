@@ -1,0 +1,226 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>home</title>
+
+    <!-- swiper css link  -->
+    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
+
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <!-- custom css file link  -->
+    <link href="~/css/site.css" rel="stylesheet" />
+
+
+</head>
+<body>
+
+
+    <!-- home section starts  -->
+    <!-- Swiper CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+
+    <section class="home" id="home">
+        <div class="swiper home-slider">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide slide" style="background:url('image/banner1.jpg') no-repeat center center; background-size: cover;">
+                    <div class="content">
+                        <span>upto 50% off</span>
+                        <h3>women's Fashion</h3>
+                        <a class="btn" class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="view" class="btn">shop now</a>
+                    </div>
+                </div>
+                <div class="swiper-slide slide" style="background:url('image/banner2.jpg') no-repeat center center; background-size: cover;">
+                    <div class="content">
+                        <span>upto 50% off</span>
+                        <h3>men's Fashion</h3>
+                        <a class="btn" class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="view" class="btn">shop now</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Add Pagination -->
+            <div class="swiper-pagination"></div>
+            <!-- Add Navigation -->
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+        </div>
+    </section>
+
+    <!-- Swiper JS -->
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <script>
+        var homeSwiper = new Swiper(".home-slider", {
+            loop: true,
+            navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
+            },
+            autoplay: {
+                delay: 3000,
+                disableOnInteraction: false,
+            },
+            pagination: {
+                el: ".swiper-pagination",
+                clickable: true,
+            },
+        });
+    </script>
+
+    <!-- home section ends -->
+    <!-- services section starts  -->
+
+    <section class="services">
+
+        <h1 class="heading-title"> our services </h1>
+
+        <div class="box-container">
+
+            <div class="box">
+                <img src="images/features/f1.png" alt="">
+                <h3>Free Shopping</h3>
+            </div>
+
+            <div class="box">
+                <img src="images/features/f2.png" alt="">
+                <h3>Online Order</h3>
+            </div>
+
+            <div class="box">
+                <img src="images/features/f3.png" alt="">
+                <h3>Save Money</h3>
+            </div>
+
+            <div class="box">
+                <img src="images/features/f4.png" alt="">
+                <h3>Promotions</h3>
+            </div>
+
+            <div class="box">
+                <img src="images/features/f5.png" alt="">
+                <h3>Happy sell</h3>
+            </div>
+
+            <div class="box">
+                <img src="images/features/f6.png" alt="">
+                <h3>F24/7 Support</h3>
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- services section ends -->
+    <!-- home about section starts  -->
+
+    <section class="home-about">
+
+        <div class="image">
+            <img src="images/59.jpg" alt="">
+        </div>
+
+        <div class="content">
+            <h3>about us</h3>
+            <p>
+                We aim to sell clothes ethically to serve the purpose of being enviroment-friendly by:<br>
+                1.Avoiding fast fashion.<br>
+                2.Selling few quantities. <br>
+                3.Maintaining sustainability.<br>
+                4.Offering affordable collections for traders and shops.
+            </p>
+            <a class="btn" class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="About">read more</a>
+        </div>
+
+    </section>
+
+    <!-- home about section ends -->
+    <!-- home packages section starts  -->
+
+    <section class="home-packages">
+
+        <h1 class="heading-title"> Our Collection </h1>
+
+        <div class="box-container">
+
+            <div class="box">
+                <div class="image">
+                    <img src="images/3030.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>Winter 2021</h3>
+                    <div>
+                        <h3>Sold Out</h3>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="box">
+                <div class="image">
+                    <img src="images/4455.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>Winter 2022</h3>
+                    <div>
+                        <h3>Sold Out</h3>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="box">
+                <div class="image">
+                    <img src="images/4040.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>Winter 2023</h3>
+                    <div>
+                        <h3>Sold Out</h3>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="btn load-more" style="display: flex; justify-content: center; text-align: center;">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="view">Winter 2024</a>
+        </div>
+
+        </div>
+
+    </section>
+
+    <!-- home packages section ends -->
+    <!-- deal section starts  -->
+
+    <section class="deal">
+
+        <div class="image">
+            <img src="image/tranding_img.png" alt="">
+        </div>
+
+        <div class="content">
+            <span>new season trending!</span>
+            <h3>best summer collection</h3>
+            <p>sale get up to 50% off</p>
+            <a class="btn" class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="view"> shop now</a>
+        </div>
+
+    </section>
+
+    <!-- deal section ends -->
+    <!-- swiper js link  -->
+    <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
+
+    <!-- custom js file link  -->
+    <script src="~/js/site.js"></script>
+
+</body>
+</html>

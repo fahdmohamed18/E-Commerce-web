@@ -1,0 +1,68 @@
+﻿@model Product
+<div class="row" >
+	<form method="post" asp-controller="Products" asp-action="AddNew" enctype="multipart/form-data" class="col-4">
+		<div asp-validation-summary="All" class="text-danger"></div>
+		<div>
+			
+			<label form-label>@Html.DisplayNameFor(Emp => Emp.Name)  </label> 
+			<input asp-for="Name" class="form-control" />
+			<span asp-validation-for="Name" class="text-danger"></span>
+		</div>
+		<div>
+			<label form-label class="bg-gold">@Html.DisplayNameFor(Emp => Emp.Description)</label>
+			<input asp-for="Description" class="form-control" />
+			<span asp-validation-for="Description" class="text-danger"></span>
+		</div>
+		<div>
+			<label form-label class="bg-gold">@Html.DisplayNameFor(Emp => Emp.Quantity)</label>
+			<input asp-for="Quantity" class="form-control" />
+			<span asp-validation-for="Quantity" class="text-danger"></span>
+		</div>
+		<div>
+			<label form-label>@Html.DisplayNameFor(Emp => Emp.Price)</label>
+			<input asp-for="Price" class="form-control" type="number" />
+			<span asp-validation-for="Price" class="text-danger"></span>
+		</div>
+
+		<div>
+			<label form-label>@Html.DisplayNameFor(Emp => Emp.CategoryId)</label>
+			<select asp-for="CategoryId" asp-items="@(new SelectList(ViewBag.AllCategories,"Id","Name"))" class="form-control">
+				<option selected disabled>--Select Category--</option>
+
+			</select>
+			<span asp-validation-for="CategoryId" class="text-danger"></span>
+
+		</div>
+		
+		<div>
+			<label form-label>@Html.DisplayNameFor(Emp => Emp.ImageFile)</label>
+			<input asp-for="ImageFile" class="form-control" type="file" accept=".png,.jpg" onchange="AddImage()" />
+		</div>
+
+		
+			<button type="submit" class="btn btn-primary mt-2">Add</button>
+
+
+		</form>
+
+		<img src="" id="empimg" style="object-fit:contain" class="col-4" />
+	   
+
+
+</div>
+
+ @section Scripts{ 
+	<script>
+		function AddImage() {
+			if (document.getElementById("ImageFile").files[0].size > 1048576) 
+			{
+				alert("image size mustn't exceed 1MB \n this image size is" + Math.round(document.getElementById("ImageFile").files[0].size / 1048576).toFixed(2) + "MB .");
+			} else
+			{
+				document.getElementById("empimg").src = window.URL.createObjectURL(document.getElementById("ImageFile").files[0]);
+			}
+		}
+
+
+	</script>
+	}

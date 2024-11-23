@@ -1,0 +1,28 @@
+﻿<h1 class="text-center" style="color: brown;">Categories Page</h1>
+
+<a asp-controller="Categories" asp-action="GetCreateView" class="btn ">Create New</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+			@foreach (var category in Model)
+			{
+			<tr>
+				<td>@category.Name</td>
+				<td>@category.Description</td>
+                <td><a class="btn " asp-controller="Categories" asp-action="GetDetailsView" asp-route-id="@category.Id">Details</a></td>
+                <td><a class="btn " asp-controller="Categories" asp-action="Edit" asp-route-id="@category.Id">Edit</a></td>
+                <td><a class="btn " asp-controller="Categories" asp-action="Delete" asp-route-id="@category.Id">Delete</a></td>
+			</tr>
+
+			}
+    </tbody>
+</table>
+
+
